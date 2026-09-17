@@ -9,3 +9,4 @@ name = "gitscan"
 path = "src/bin/gitscan.rs"
 
 [dependencies]
+clap = { version = "4.6.7", features = ["derive"] }
